@@ -31,8 +31,9 @@ With over 22 years of progressive leadership, I specialize in maximizing operati
 
 ---
 ### 🤝 Let's Connect
-I am currently open to new executive opportunities in the GCC region, particularly in Power Generation, Utilities, and Oil & Gas sectors[span_7](start_span)[span_7](end_span).
+I am currently open to new executive opportunities in the GCC region, particularly in Power Generation, Utilities, and Oil & Gas sectors.
 
-- 📧 **Email:** mr.fathi.se@gmail.com[span_8](start_span)[span_8](end_span)
-- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohammad-reza-fathi)[span_9](start_span)[span_9](end_span)
-- 📍 **Location:** Tehran, Iran (Open to Relocation - UAE/GCC)[span_10](start_span)[span_10](end_span)
+- 📧 **Email:** [mr.fathi.se@gmail.com](mailto:mr.fathi.se@gmail.com)
+- 📱 **WhatsApp Business:** [Chat on WhatsApp](https://wa.me/message/ONWA55KSJELLB1)
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohammad-reza-fathi)
+- 📍 **Location:** Tehran, Iran (Open to Relocation - UAE/GCC)
