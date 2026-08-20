@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1466611653911-95081537e5b7?q=80&w=1200&auto=format&fit=crop" alt="Power Generation Header" width="100%" style="border-radius: 8px;">
+</p>
 
 # Mohammad Reza Fathi  
 **Power Generation Executive | O&M Expert | Energy Consultant**
