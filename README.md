@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518709268805-4e90ce4af1f9?q=80&w=1200&auto=format&fit=crop" alt="Power Plant Turbine Header" width="100%" style="border-radius: 8px;">
-</p>
 
 # Mohammad Reza Fathi  
 **Power Generation Executive | O&M Expert | Energy Consultant**
