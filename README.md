@@ -1,6 +1,4 @@
 
-# Mohammad Reza Fathi
-**Power Generation Executive | O&M Expert | Energy Consultant**
 # Mohammad Reza Fathi  
 **Power Generation Executive | O&M Expert | Energy Consultant**
 
