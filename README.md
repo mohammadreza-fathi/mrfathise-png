@@ -1,16 +1,34 @@
-## Hi there 👋
+# Mohammad Reza Fathi  
+**Power Generation Executive | O&M Expert | Energy Consultant**
 
-<!--
-**mrfathise-png/mrfathise-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ About Me
+With over 22 years of experience in **combined-cycle power generation**, I specialize in **electrical commissioning**, **O&M leadership**, and **asset management**.  
+Currently serving as **Managing Director at Shahroud Power Generation Company** and **Independent Energy Consultant at Rojin Sanat Pars Engineering & Technical Co.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Expertise
+- Combined-cycle power plant operation & maintenance  
+- Electrical commissioning & testing  
+- Asset management & performance optimization  
+- Strategic energy planning across GCC markets  
+
+---
+
+## 🌍 Current Roles
+- **Managing Director**, Shahroud Power Generation Co.  
+- **Independent Energy Consultant**, Rojin Sanat Pars Engineering & Technical Co.  
+- **Chief Power Generation Strategy Officer**, Fathi Strategic Power Solutions  
+
+---
+
+## 📫 Contact
+- 📧 mr.fathi.se@gmail.com  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-reza-fathi)  
+- 📍 Tehran, Iran  
+
+---
+
+> *“Leading Power Generation Excellence across GCC and beyond.”*
