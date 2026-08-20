@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrfathise/mrfathise-png/main/image_1783339553280.jpeg" alt="Power Generation Banner" width="100%">
-</p>
 
 # Mohammad Reza Fathi
 **Power Generation Executive | O&M Expert | Energy Consultant**
