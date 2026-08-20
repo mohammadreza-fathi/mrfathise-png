@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="image_1783339553280.jpeg" alt="Executive Engineering Header" width="100%" style="border-radius: 8px;">
+</p>
 
 # Mohammad Reza Fathi  
 **Power Generation Executive | O&M Expert | Energy Consultant**
