@@ -2,37 +2,37 @@
   <img src="image_1783339553280.jpeg" alt="Executive Engineering Header" width="100%" style="border-radius: 8px;">
 </p>
 
-# Mohammad Reza Fathi  
-**Power Generation Executive | O&M Expert | Energy Consultant**
+## ⚡ Executive Summary
+**Senior Power Generation Executive | Plant Manager | O&M Director**
 
----
+With over 22 years of progressive leadership, I specialize in maximizing operational efficiency for thermal and combined-cycle (CCPP) power generation assets. My approach combines deep technical expertise in Siemens control/excitation systems with high-level financial modeling and corporate governance.
 
-## ⚡ About Me
-With over 22 years of experience in **combined-cycle power generation**, I specialize in **electrical commissioning**, **O&M leadership**, and **asset management**.  
-Currently serving as **Managing Director at Shahroud Power Generation Company** and **Independent Energy Consultant at Rojin Sanat Pars Engineering & Technical Co.**
+- **Expertise:** Asset Management, P&L Accountability, O&M Contract Supervision, and Grid Code Compliance.
+- **Track Record:** Successfully led the privatization of Shahroud Power Generation Co., achieving a profit margin increase from 12% to 32%, and delivering +20 MW capacity uprates[span_1](start_span)[span_1](end_span).
+- **Vision:** Driving operational excellence through Reliability-Centered Maintenance (RCM) and strategic technical due diligence.
 
----
+## 🏆 Key Achievements
+- **Profitability:** Increased profitability at Shahid Bastami CCPP by +20 percentage points through governance and optimization.
+- **Operational Excellence:** Maintained 99.7% plant availability during peak demand campaigns[span_2](start_span)[span_2](end_span).
+- **Efficiency:** Awarded by the Ministry of Energy for pioneering turbine inlet air-cooling projects enhancing national grid stability[span_3](start_span)[span_3](end_span).
+- **Strategic Impact:** Negotiated LTSA extensions with Siemens, yielding $2.5M in cost reductions over 3 years[span_4](start_span)[span_4](end_span).
 
-## 🔧 Expertise
-- Combined-cycle power plant operation & maintenance  
-- Electrical commissioning & testing  
-- Asset management & performance optimization  
-- Strategic energy planning across GCC markets  
-
----
+## 🛠 Core Competencies
+| Leadership & Governance | Technical Operations | Strategic Management |
+| :--- | :--- | :--- |
+| Asset Management & P&L | CCPP Optimization | M&A Transaction Mgmt |
+| Vendor Governance | Major Overhauls (MI/HGPI) | Financial Modeling |
+| Corporate Strategy | Grid Code Compliance | Risk Management |
 
 ## 🌍 Current Roles
-- **Managing Director**, Shahroud Power Generation Co.  
-- **Independent Energy Consultant**, Rojin Sanat Pars Engineering & Technical Co.  
-- **Chief Power Generation Strategy Officer**, Fathi Strategic Power Solutions  
+- **Managing Director**, Shahroud Power Generation Co.[span_5](start_span)[span_5](end_span)
+- **Independent Energy Consultant**, Rojin Sanat Pars Engineering & Technical Co.[span_6](start_span)[span_6](end_span)
+- **Chief Power Generation Strategy Officer**, Fathi Strategic Power Solutions
 
 ---
+### 🤝 Let's Connect
+I am currently open to new executive opportunities in the GCC region, particularly in Power Generation, Utilities, and Oil & Gas sectors[span_7](start_span)[span_7](end_span).
 
-## 📫 Contact
-- 📧 mr.fathi.se@gmail.com  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-reza-fathi)  
-- 📍 Tehran, Iran  
-
----
-
-> *“Leading Power Generation Excellence across GCC and beyond.”*
+- 📧 **Email:** mr.fathi.se@gmail.com[span_8](start_span)[span_8](end_span)
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohammad-reza-fathi)[span_9](start_span)[span_9](end_span)
+- 📍 **Location:** Tehran, Iran (Open to Relocation - UAE/GCC)[span_10](start_span)[span_10](end_span)
